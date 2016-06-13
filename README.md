@@ -1,5 +1,5 @@
 # crawl-qiubai-and-send-sms
-抓取糗百首页笑话，并使用短信发送
+抓取糗百首页笑话，每小时使用短信发送到指定的手机号码，写来哄女朋友开心的。因为伟大的composer，本项目就几行代码，见main.php
 
 ## 使用方法
 ```bash
@@ -12,7 +12,9 @@ cp .env.example .env
 ```
 
 创建定时执行任务，例如centos下添加crontab -e记录：
+
 `0 */1 * * * cd /home/shellus/www/php/sms_send && php main.php >> ~/sms_log.log 2>&1`
 
 ## 相关链接
 短信宝: [http://www.cocsms.com/](http://www.cocsms.com/)
+糗事百科: [http://www.qiushibaike.com/](http://www.qiushibaike.com/)
