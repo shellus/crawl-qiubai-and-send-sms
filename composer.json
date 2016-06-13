@@ -1,0 +1,14 @@
+{
+    "name": "shellus/untitled",
+    "authors": [
+        {
+            "name": "shellus",
+            "email": "shellus@endaosi.com"
+        }
+    ],
+    "require": {
+        "anlutro/curl": "^1.4",
+        "symfony/css-selector": "^3.1",
+        "symfony/dom-crawler": "^3.1"
+    }
+}
