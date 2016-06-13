@@ -17,4 +17,5 @@ cp .env.example .env
 
 ## 相关链接
 短信宝: [http://www.cocsms.com/](http://www.cocsms.com/)
+
 糗事百科: [http://www.qiushibaike.com/](http://www.qiushibaike.com/)
