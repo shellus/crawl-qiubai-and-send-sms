@@ -16,6 +16,6 @@ cp .env.example .env
 `0 */1 * * * cd /home/shellus/www/php/sms_send && php main.php >> ~/sms_log.log 2>&1`
 
 ## 相关链接
-短信宝: [http://www.cocsms.com/](http://www.cocsms.com/)
+短信宝(推广链接): [http://www.smsbao.com/reg](http://www.smsbao.com/reg?r=10367)
 
 糗事百科: [http://www.qiushibaike.com/](http://www.qiushibaike.com/)
